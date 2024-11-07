@@ -2,33 +2,23 @@
   <!-- ignore side panel -->
   <main class="page">
     <!-- update the header -->
-    <header>
-      <div class="wrapper">
-        <nav>
-          <RouterLink to="/data-usage">Data usage</RouterLink>
-          <RouterLink to="/activity-log">Asset management</RouterLink>
-          <RouterLink to="/asset-management">Activity log</RouterLink>
-        </nav>
-      </div>
-    </header>
-
-    <RouterView />
+    <div class="flex w-full flex-col min-h-screen">
+      <BaseHeader />
+      <RouterView />
+      <BaseFooter />
+    </div>
 
     <!-- add the footer from design -->
   </main>
 </template>
 
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import { onMounted } from 'vue'
+<script>
+import { defineComponent } from 'vue'
+import BaseHeader from '@/components/BaseHeader.vue'
+import BaseFooter from '@/components/BaseFooter.vue'
 
-// Remove this. It's just a demo of how to load the content from mock api. See /public dir
-onMounted(async () => {
-  const url = import.meta.env.BASE_URL
-
-  const response = await fetch(url + 'api/activity-log.json')
-  const itemsDemo = await response.json()
-  console.log({ itemsDemo })
+export default defineComponent({
+  components: { BaseFooter, BaseHeader }
 })
 </script>
 
