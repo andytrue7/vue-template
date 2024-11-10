@@ -1,42 +1,1202 @@
 [
-    {
-        "name": "Laptop",
-        "itemCategory": "Electronics"
-    },
-    {
-        "name": "Office Chair",
-        "itemCategory": "Furniture"
-    },
-    {
-        "name": "Notebook",
-        "itemCategory": "Stationery"
-    },
-    {
-        "name": "Printer",
-        "itemCategory": "Electronics"
-    },
-    {
-        "name": "Desk Lamp",
-        "itemCategory": "Lighting"
-    },
-    {
-        "name": "Whiteboard",
-        "itemCategory": "Office Supplies"
-    },
-    {
-        "name": "Coffee Maker",
-        "itemCategory": "Appliances"
-    },
-    {
-        "name": "Projector",
-        "itemCategory": "Electronics"
-    },
-    {
-        "name": "Filing Cabinet",
-        "itemCategory": "Furniture"
-    },
-    {
-        "name": "Pens",
-        "itemCategory": "Stationery"
-    }
+        {
+            "name": "Towels",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Pizza",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Jewelery"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Baby"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Clothing"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Hat",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Sports"
+        },
+        {
+            "name": "Shoes",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Toys"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Gloves",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Chair",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Bacon",
+            "itemCategory": "Industrial"
+        },
+        {
+            "name": "Soap",
+            "itemCategory": "Grocery"
+        },
+        {
+            "name": "Shirt",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Computers"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Cheese",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Computer",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Bike",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Fish",
+            "itemCategory": "Outdoors"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Home"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Automotive"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Garden"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Games"
+        },
+        {
+            "name": "Table",
+            "itemCategory": "Beauty"
+        },
+        {
+            "name": "Chicken",
+            "itemCategory": "Kids"
+        },
+        {
+            "name": "Sausages",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Mouse",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Chips",
+            "itemCategory": "Tools"
+        },
+        {
+            "name": "Car",
+            "itemCategory": "Music"
+        },
+        {
+            "name": "Pants",
+            "itemCategory": "Books"
+        },
+        {
+            "name": "Keyboard",
+            "itemCategory": "Health"
+        },
+        {
+            "name": "Towels",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Movies"
+        },
+        {
+            "name": "Tuna",
+            "itemCategory": "Shoes"
+        },
+        {
+            "name": "Ball",
+            "itemCategory": "Electronics"
+        },
+        {
+            "name": "Salad",
+            "itemCategory": "Sports"
+        }
 ]

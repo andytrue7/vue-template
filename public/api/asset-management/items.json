@@ -1,72 +1,688 @@
 [
-    {
-        "serialNumber": "SN001",
-        "refurbishmentDate": "2024-01-15",
-        "model": "Model A1",
-        "employee": "Alice Johnson",
-        "departmentResponsible": "Quality Control"
-    },
-    {
-        "serialNumber": "SN002",
-        "refurbishmentDate": "2024-02-03",
-        "model": "Model B2",
-        "employee": "Bob Smith",
-        "departmentResponsible": "Maintenance"
-    },
-    {
-        "serialNumber": "SN003",
-        "refurbishmentDate": "2024-03-12",
-        "model": "Model C3",
-        "employee": "Charlie Brown",
-        "departmentResponsible": "Engineering"
-    },
-    {
-        "serialNumber": "SN004",
-        "refurbishmentDate": "2024-04-21",
-        "model": "Model D4",
-        "employee": "David Lee",
-        "departmentResponsible": "Production"
-    },
-    {
-        "serialNumber": "SN005",
-        "refurbishmentDate": "2024-05-18",
-        "model": "Model E5",
-        "employee": "Eve Torres",
-        "departmentResponsible": "Logistics"
-    },
-    {
-        "serialNumber": "SN006",
-        "refurbishmentDate": "2024-06-30",
-        "model": "Model F6",
-        "employee": "Frank Wright",
-        "departmentResponsible": "Quality Control"
-    },
-    {
-        "serialNumber": "SN007",
-        "refurbishmentDate": "2024-07-22",
-        "model": "Model G7",
-        "employee": "Grace Kim",
-        "departmentResponsible": "Engineering"
-    },
-    {
-        "serialNumber": "SN008",
-        "refurbishmentDate": "2024-08-10",
-        "model": "Model H8",
-        "employee": "Hank Green",
-        "departmentResponsible": "Production"
-    },
-    {
-        "serialNumber": "SN009",
-        "refurbishmentDate": "2024-09-05",
-        "model": "Model I9",
-        "employee": "Ivy Larson",
-        "departmentResponsible": "Logistics"
-    },
-    {
-        "serialNumber": "SN010",
-        "refurbishmentDate": "2024-10-14",
-        "model": "Model J10",
-        "employee": "Jack Taylor",
-        "departmentResponsible": "Maintenance"
-    }
+        {
+            "serialNumber": "a7321ff3-d8f7-437f-b518-11a251e5eacb",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -383264",
+            "employee": "Brisa Kassulke",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "82ad8a20-dcf8-47d8-afb1-6b50333f8135",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 881972",
+            "employee": "Guido Littel",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "5b8c29f2-a712-43f7-9f05-e683ade18ccf",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 869634",
+            "employee": "Jean Kshlerin",
+            "departmentResponsible": "Automotive"
+        },
+        {
+            "serialNumber": "9cce5f4c-153b-41d5-a9ea-f4e9f1a2a929",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 925880",
+            "employee": "Myah Anderson",
+            "departmentResponsible": "Industrial"
+        },
+        {
+            "serialNumber": "d744d353-af67-48ab-b0ed-2fc5f1729919",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -159781",
+            "employee": "Enos Hegmann",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "2c316010-3182-4094-affb-f7313fa47955",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -524712",
+            "employee": "Wilmer Cruickshank",
+            "departmentResponsible": "Industrial"
+        },
+        {
+            "serialNumber": "86c3babd-3188-4540-a10f-bb69f7f3c039",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 182474",
+            "employee": "Bridgette Schaden",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "ef15e973-ced8-48a3-896d-697f917a8457",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -158255",
+            "employee": "Shayna Orn",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "6a6000d8-5ed1-47fc-97f1-583ae34ee6cb",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -458479",
+            "employee": "Esmeralda Hayes",
+            "departmentResponsible": "Computers"
+        },
+        {
+            "serialNumber": "ad09cfdb-4c02-417e-b7d4-a9be57025ace",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 540251",
+            "employee": "Kennedi Considine",
+            "departmentResponsible": "Sports"
+        },
+        {
+            "serialNumber": "b8d2fe02-14d6-4507-8aa3-af2208d7849c",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 818327",
+            "employee": "Antonetta Cartwright",
+            "departmentResponsible": "Movies"
+        },
+        {
+            "serialNumber": "47aac61a-f129-43e6-9748-893986e139c6",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 340261",
+            "employee": "Elijah Kertzmann",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "fcd6dca6-7e33-43ae-9480-900369c5c96c",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 487764",
+            "employee": "Felton McGlynn",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "3fbd8859-cce9-4994-89f5-b21f9af906cc",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 275880",
+            "employee": "Donnie Kling",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "53ceb02e-240b-4bdd-a606-becfcad4ce76",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -972151",
+            "employee": "Jennyfer Boyer",
+            "departmentResponsible": "Clothing"
+        },
+        {
+            "serialNumber": "ef9ec65a-ab7a-45c3-bd9d-c3042a9a708f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -238139",
+            "employee": "Rodrick Lockman",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "6f9668b4-38ab-4852-868f-c4307e8a1e2f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -899290",
+            "employee": "Jarrett Dach-Gottlieb",
+            "departmentResponsible": "Kids"
+        },
+        {
+            "serialNumber": "8a64d11a-3bb1-4303-b057-2ee1439c8caa",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -334792",
+            "employee": "Tressa Shields",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "3db0264f-eb8f-47bd-be54-2b21a797f6a7",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -531347",
+            "employee": "Ivory Moore",
+            "departmentResponsible": "Grocery"
+        },
+        {
+            "serialNumber": "e436ab6d-3485-48b8-90d3-93f5d3c45c9a",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 741643",
+            "employee": "Thaddeus Kub",
+            "departmentResponsible": "Clothing"
+        },
+        {
+            "serialNumber": "fd51b261-8e5a-4e74-a969-41093f52bda4",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -72146",
+            "employee": "Derick Maggio",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "0bc121e4-42b5-4d78-8a96-e863baa89070",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 623576",
+            "employee": "Ramiro Quigley-Little",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "9dbe2af7-e91f-4fc0-92e9-576117ef41f6",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -810838",
+            "employee": "Giuseppe Connelly",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "dc30ea44-b50e-404e-871a-de146ff68ac0",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -79032",
+            "employee": "Henderson Brekke",
+            "departmentResponsible": "Electronics"
+        },
+        {
+            "serialNumber": "302bc3d9-afab-4625-aebe-8475ffe05305",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 632367",
+            "employee": "Ferne Kuhic",
+            "departmentResponsible": "Electronics"
+        },
+        {
+            "serialNumber": "579164fd-4012-4f26-805a-35053025708b",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 626864",
+            "employee": "Emilia Leuschke",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "47ee28eb-1096-4132-8534-237f40d25720",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -793178",
+            "employee": "Carlos Kirlin-Streich",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "395c5903-8433-4e43-82a9-6666e38f8f9a",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -664040",
+            "employee": "Tina Shields",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "ca803796-f7ea-47c1-9c09-22d9bd7bd530",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 423781",
+            "employee": "Mckenna Wyman",
+            "departmentResponsible": "Kids"
+        },
+        {
+            "serialNumber": "e1bc04aa-82ea-4783-bdef-7b3638d9342b",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -369514",
+            "employee": "Mariana King",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "bace5241-30d0-48dd-a457-f91434493930",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 267631",
+            "employee": "Aida Jacobson",
+            "departmentResponsible": "Music"
+        },
+        {
+            "serialNumber": "e8ec040f-ad3c-444a-a117-6079f0b3e898",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 96080",
+            "employee": "Brayan Zieme",
+            "departmentResponsible": "Home"
+        },
+        {
+            "serialNumber": "36c4f80f-a15e-4652-9165-5edee559cb1e",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -869507",
+            "employee": "Stefanie Ullrich",
+            "departmentResponsible": "Automotive"
+        },
+        {
+            "serialNumber": "fc04f182-ba9b-464c-8750-27a6eeec0ffd",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -159454",
+            "employee": "Elenora Sawayn-Labadie",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "bb455f9b-9c26-4666-bc26-9b44f12941bb",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -388659",
+            "employee": "Heloise Breitenberg",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "9002a958-1382-46d4-b560-150e3226f8db",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 313199",
+            "employee": "Porter Wiza",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "5083d512-c771-46b0-bb21-8f1dc422e1cc",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 276387",
+            "employee": "Brody Buckridge-Rowe",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "423d1917-d9d1-4ec7-85b0-018a34a2b5de",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 113185",
+            "employee": "Aida Kuhlman",
+            "departmentResponsible": "Grocery"
+        },
+        {
+            "serialNumber": "17bd4f24-ea0f-4c63-9a58-98641ad1da8d",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 313253",
+            "employee": "Lucio Farrell",
+            "departmentResponsible": "Tools"
+        },
+        {
+            "serialNumber": "1b7fdd6f-d492-492e-9513-d00f0a2538c2",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 317364",
+            "employee": "Abigale Hintz",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "07b6455d-d450-4eed-9d21-a424f1f28019",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 943656",
+            "employee": "Morton Ebert",
+            "departmentResponsible": "Home"
+        },
+        {
+            "serialNumber": "e16dfec3-1370-47c9-b114-4d755bd3b13b",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 141091",
+            "employee": "Shyanne Yundt",
+            "departmentResponsible": "Games"
+        },
+        {
+            "serialNumber": "0c9b8368-48a6-479d-b866-9ae969af29f6",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 91069",
+            "employee": "Litzy Cormier",
+            "departmentResponsible": "Music"
+        },
+        {
+            "serialNumber": "965524ba-6324-4242-81a1-ae24348f89e2",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -761334",
+            "employee": "Gabe Schuster",
+            "departmentResponsible": "Computers"
+        },
+        {
+            "serialNumber": "6b4549f4-3c06-4067-a66b-88dfdb66ba6f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 681874",
+            "employee": "Cali Runolfsson",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "a73aeddb-3d9f-4129-b983-4efa416fce2e",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -223859",
+            "employee": "Angelita Morissette",
+            "departmentResponsible": "Games"
+        },
+        {
+            "serialNumber": "59a0666e-8b92-4c00-bff4-4a9e857aeccd",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -34276",
+            "employee": "Elbert Turcotte",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "c36b8d0e-d54d-4d57-b555-4ef66edcc81e",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -392990",
+            "employee": "Kaitlyn Hansen",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "046b99d2-cf16-48b9-8d6f-1b696801aee1",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -853535",
+            "employee": "Ramon Streich",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "6f171169-4779-43f2-9a43-f3cfbf449553",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 826602",
+            "employee": "Eryn Bradtke",
+            "departmentResponsible": "Automotive"
+        },
+        {
+            "serialNumber": "51cd704a-715d-4f4b-af3b-4f730bab3770",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -635557",
+            "employee": "Ellie Paucek",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "1ccda73d-ce09-4271-a27d-8d5cad809125",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 186607",
+            "employee": "Mack Franecki",
+            "departmentResponsible": "Beauty"
+        },
+        {
+            "serialNumber": "4020f804-c8c6-4b1f-a2c8-766ad148d7f1",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -561745",
+            "employee": "Noble Jacobi",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "3ed5848a-1b30-446e-9fd7-520fee86abe4",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -909003",
+            "employee": "Ophelia Thiel",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "70a7424f-0049-478c-823c-f9fdc03ff8dc",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -413838",
+            "employee": "Lyda Mante",
+            "departmentResponsible": "Movies"
+        },
+        {
+            "serialNumber": "47976b6f-d575-4d33-9a69-72cfb63f4675",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -441566",
+            "employee": "Tremayne Brakus",
+            "departmentResponsible": "Grocery"
+        },
+        {
+            "serialNumber": "307a8eb7-51c0-4e9e-8025-8820a4e4ec82",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 180696",
+            "employee": "Neil Koelpin",
+            "departmentResponsible": "Tools"
+        },
+        {
+            "serialNumber": "d84b723a-b1ca-4a7e-a3db-f8924ecac35f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 877850",
+            "employee": "Waino Ledner",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "22bb2ef1-7f29-433c-a10b-ed0521a20a01",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 529850",
+            "employee": "Jerrold Leuschke",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "a5feeaa8-2b82-4f5b-8c68-fbcab3074d9f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -527082",
+            "employee": "Emiliano Ziemann",
+            "departmentResponsible": "Beauty"
+        },
+        {
+            "serialNumber": "35ce9bbf-7a87-4222-a1a1-4ed5f83b30df",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 841681",
+            "employee": "Amely Kovacek",
+            "departmentResponsible": "Clothing"
+        },
+        {
+            "serialNumber": "c003971f-2cc2-42ca-a059-add20cd5b60d",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -929959",
+            "employee": "Beatrice Auer",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "c2aa8fea-3e1a-4cb4-9604-a8c4160ee2cf",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -993028",
+            "employee": "Sarina Yost",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "d8917f1c-6818-4757-af41-0d09d93e5f0d",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -175217",
+            "employee": "Braxton Jacobson",
+            "departmentResponsible": "Health"
+        },
+        {
+            "serialNumber": "a92e183a-aa31-4c58-a837-5b8858e7f22d",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 488173",
+            "employee": "Monique Swift",
+            "departmentResponsible": "Beauty"
+        },
+        {
+            "serialNumber": "02fafb14-12ef-4708-b097-94aaa0521cdb",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 141552",
+            "employee": "Rubie Lowe",
+            "departmentResponsible": "Kids"
+        },
+        {
+            "serialNumber": "9d821b2a-1aff-4714-98e7-26f8fb229b11",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 325260",
+            "employee": "Orlo Morissette",
+            "departmentResponsible": "Beauty"
+        },
+        {
+            "serialNumber": "13c2d748-3484-4932-bb96-d059c3129409",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -86010",
+            "employee": "Germaine Thompson",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "868cd89f-7ae5-428d-8cff-15e8ff22d261",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -573717",
+            "employee": "Kiarra Prohaska",
+            "departmentResponsible": "Grocery"
+        },
+        {
+            "serialNumber": "a672ee23-2fc4-46f7-b906-92d3391cdb9e",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 510284",
+            "employee": "Yvonne Breitenberg",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "e0bfc572-4880-40cc-bd9b-d59d589df948",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -267384",
+            "employee": "Silas Bartoletti",
+            "departmentResponsible": "Music"
+        },
+        {
+            "serialNumber": "c8a032ad-ae09-4c40-a6fb-6afa88a2e888",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -122688",
+            "employee": "Kelton Beatty",
+            "departmentResponsible": "Health"
+        },
+        {
+            "serialNumber": "2154845a-c21c-470e-a5ec-b086dfafb55a",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 634582",
+            "employee": "Donna Roob",
+            "departmentResponsible": "Movies"
+        },
+        {
+            "serialNumber": "dccdb014-6396-4ada-ae6b-045b03b6b7a3",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -472354",
+            "employee": "Rachelle Roob",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "42254719-3efd-49b5-ae5f-352c5636408d",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 909991",
+            "employee": "Garry Fahey",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "441d9302-a47f-41a7-a94c-b1d77359f4bd",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -776285",
+            "employee": "Douglas Smitham",
+            "departmentResponsible": "Kids"
+        },
+        {
+            "serialNumber": "465443af-19e9-4812-9770-da3d1a049475",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 276362",
+            "employee": "Jordon Kemmer",
+            "departmentResponsible": "Games"
+        },
+        {
+            "serialNumber": "eea3be03-5832-46ed-898a-70e89cb4f286",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 346079",
+            "employee": "Warren Lang",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "b08ba1c1-c558-4b14-a448-b9e058738529",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 451886",
+            "employee": "Anna Lemke",
+            "departmentResponsible": "Music"
+        },
+        {
+            "serialNumber": "bfb8da9f-6dc3-4dea-ba4c-11a5ba59f52b",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 627715",
+            "employee": "Tiffany Kilback",
+            "departmentResponsible": "Sports"
+        },
+        {
+            "serialNumber": "46450d2f-b152-4065-95d1-dad365da0182",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 845919",
+            "employee": "Brenna Hyatt",
+            "departmentResponsible": "Home"
+        },
+        {
+            "serialNumber": "77b834d0-bf6c-4585-b60a-01ed2696770b",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -64665",
+            "employee": "Gudrun Reynolds",
+            "departmentResponsible": "Computers"
+        },
+        {
+            "serialNumber": "70a381dd-e10d-4a67-824b-50a4152aa2cb",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -623569",
+            "employee": "Justice Wintheiser",
+            "departmentResponsible": "Jewelery"
+        },
+        {
+            "serialNumber": "643a0c82-90f2-4d4e-9e60-e56402b1ef3f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 413485",
+            "employee": "Reinhold Barrows",
+            "departmentResponsible": "Sports"
+        },
+        {
+            "serialNumber": "023b474e-1b2c-4d70-b25a-2a0a95c41da0",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -577750",
+            "employee": "Leif Bechtelar",
+            "departmentResponsible": "Shoes"
+        },
+        {
+            "serialNumber": "2f5d65db-3980-4f2b-bf10-d7e763c0b0d5",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -782691",
+            "employee": "Declan Breitenberg",
+            "departmentResponsible": "Baby"
+        },
+        {
+            "serialNumber": "4b938c26-a8d3-4344-b6b4-ac48802a39cf",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 23796",
+            "employee": "Kali Jacobson",
+            "departmentResponsible": "Garden"
+        },
+        {
+            "serialNumber": "7166d9c2-9869-4100-a218-cc2547dcce30",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -10759",
+            "employee": "Rex Stehr",
+            "departmentResponsible": "Electronics"
+        },
+        {
+            "serialNumber": "33cd2c51-0f5f-45b8-9db3-cd2d98753607",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -299437",
+            "employee": "Keeley Satterfield",
+            "departmentResponsible": "Home"
+        },
+        {
+            "serialNumber": "88f948b5-4cf0-4191-94a1-f191261f2be9",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 266185",
+            "employee": "Albertha Orn",
+            "departmentResponsible": "Grocery"
+        },
+        {
+            "serialNumber": "b36df86b-e81c-4589-a8ea-078aff8fa2b9",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 270734",
+            "employee": "Chanel Bogan",
+            "departmentResponsible": "Electronics"
+        },
+        {
+            "serialNumber": "90d94c36-b084-4120-b10f-4cf79d82713f",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -210217",
+            "employee": "Myriam Ruecker",
+            "departmentResponsible": "Toys"
+        },
+        {
+            "serialNumber": "18290016-910b-45a4-82f0-a105841a38a9",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 468223",
+            "employee": "Alyson Weber",
+            "departmentResponsible": "Health"
+        },
+        {
+            "serialNumber": "3cdda72d-0d5c-4501-9d2a-8e1954f9321e",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -834885",
+            "employee": "Stacey Casper",
+            "departmentResponsible": "Books"
+        },
+        {
+            "serialNumber": "eefe014b-4a90-4d70-bb43-98b4c61cf482",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 536441",
+            "employee": "Ressie Barrows",
+            "departmentResponsible": "Clothing"
+        },
+        {
+            "serialNumber": "d2c1e9aa-190e-4109-a8cd-788b477e53f8",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -81050",
+            "employee": "Celestine Orn",
+            "departmentResponsible": "Industrial"
+        },
+        {
+            "serialNumber": "29ecacbd-bb2e-4277-af45-7567bf19dd27",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model 597330",
+            "employee": "Trent Torphy",
+            "departmentResponsible": "Health"
+        },
+        {
+            "serialNumber": "7da5aa35-29f6-4dde-8b8d-68be3948b950",
+            "refurbishmentDate": "Sat Jan 01 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+            "model": "Model -946839",
+            "employee": "Margarita Blick-Schmidt",
+            "departmentResponsible": "Electronics"
+        }
 ]

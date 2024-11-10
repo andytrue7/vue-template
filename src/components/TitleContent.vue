@@ -1,8 +1,8 @@
 <template>
   <div class="title-wrapper flex justify-between">
     <div class="flex mb-4">
-      <InputIcon class="pi pi-mobile text-blue-700 text-2xl pr-4" />
-      <p class="text-2xl">{{ title }}</p>
+      <i class="pi pi-mobile text-blue-700 pr-4 text-3xl" style="font-size: 1.5rem"></i>
+      <p class="text-3xl">{{ title }}</p>
     </div>
     <Breadcrumb class="breadcrumb" :home="home" :model="items">
       <template #item="{ item, props }">
@@ -12,7 +12,7 @@
           </a>
         </router-link>
         <a v-else :href="item.url" :target="item.target" v-bind="props.action">
-          <span class="text-blue-400 underline  dark:text-surface-0">{{ item.label }}</span>
+          <span class="text-blue-400 underline">{{ item.label }}</span>
         </a>
       </template>
     </Breadcrumb>

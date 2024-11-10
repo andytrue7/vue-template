@@ -1,12 +1,13 @@
 <template>
   <header class="w-full">
-    <div class="card wrapper flex justify-between p-4">
+    <div class="card wrapper flex justify-between p-4 px-16">
       <IconField class="flex">
         <InputIcon class="pi pi-search" />
         <InputText
           v-model="inputValue"
           placeholder="Input"
-          class="border-round-2xl border-4 w-full px-2"
+          class="border-4 w-96 px-2"
+          style="border-radius: 28px"
         />
       </IconField>
       <div class="flex">

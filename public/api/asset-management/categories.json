@@ -1,12 +1,11 @@
 [
-    "Electronics",
-    "Furniture",
-    "Stationery",
-    "Lighting",
-    "Office Supplies",
-    "Appliances",
-    "Outdoor",
-    "Cleaning Supplies",
-    "Tools",
-    "Health & Safety"
+    "Smartphone", "Laptop", "Tablet", "Monitor", "Headphones", "Keyboard", "Mouse", "Camera",
+    "Printer", "Speaker", "Smartwatch", "Television", "Router", "Gaming Console", "Projector",
+    "Hard Drive", "USB Flash Drive", "Power Bank", "Bluetooth Speaker", "E-Reader", "Drone",
+    "VR Headset", "Gamepad", "Webcam", "Microphone", "Charger", "Smart Thermostat", "Fitness Tracker",
+    "Electric Toothbrush", "Coffee Maker", "Robot Vacuum", "Smart Lightbulb", "Digital Camera",
+    "Security Camera", "Smart Lock", "Home Theater System", "Soundbar", "Air Purifier", "Electric Kettle",
+    "Electric Grill", "Oven", "Washing Machine", "Smart Fridge", "Electric Fan", "Electric Blanket",
+    "Cordless Vacuum", "Electric Shaver", "Steam Iron", "Electric Bike", "Laptop Cooling Pad",
+    "Portable Projector", "Smart Glasses", "Smart Scale", "Electric Scooter", "Smart Speaker"
 ]
